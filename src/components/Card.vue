@@ -24,7 +24,7 @@
 </template>
 
 <script>
-import lib from "@/scrips/lib";
+import lib from "@/scripts/lib";
 
 export default {
   name: "Card",
